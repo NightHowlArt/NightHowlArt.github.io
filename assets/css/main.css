@@ -1218,6 +1218,12 @@
 		z-index: 10001;
 	}
 
+			#header .avatar img {
+				border-radius: 100%;
+				display: block;
+				width: 10em;
+			}
+
 		#header .inner {
 			-moz-transition: height 0.2s ease-in-out, width 0.2s ease-in-out;
 			-webkit-transition: height 0.2s ease-in-out, width 0.2s ease-in-out;
